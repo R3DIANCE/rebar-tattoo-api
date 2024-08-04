@@ -1,13 +1,15 @@
 # Tattoo API for Rebar Framework
 Tattoo plugin lets you set, remove player tattoos.
 
+![image](https://github.com/user-attachments/assets/271bf72a-a94e-4534-9ed3-4fd6da277f8d)
+
 ## Requires
 A player must have a character creator plugin.
 -   [Rebar Character Creator](https://github.com/Stuyk/rebar-character-creator)
 
 ## Features
--   set tattoo by <index || name>
--   remove tattoo by <index>
+-   set tattoo by < index || name >
+-   remove tattoo by < index >
 
 ## API example usage
 ```ts
